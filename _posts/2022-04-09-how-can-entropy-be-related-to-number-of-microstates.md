@@ -1,7 +1,6 @@
 ---
 date: '2022-04-09'
 draft: false
-image: featured.html
 tags:
 - Article
 title: How can Entropy be related to Number of Microstates?

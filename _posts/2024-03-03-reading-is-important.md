@@ -1,7 +1,4 @@
 ---
-categories:
-- x
-- y
 date: '2024-03-03'
 draft: 'false'
 toc: true
@@ -163,4 +160,3 @@ Read more books; they will make you a good person overall. You can use the time 
 
 #### Picure Credits
 
-Photo by [Joel Muniz](`) on [Unsplash](`https://unsplash.com/photos/girl-reading-book-XqXJJhK-c08?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash`)

@@ -34,7 +34,6 @@ How does a stepper motor work?
 VR stepper motors work in a very easy to understand manner. The image belwo shows some of the physical details that  characterize its operation. In a VR stepper motor, the surrounding coils that are physically located  opposite of each other are energized to create opposite magnetic fields. The the image below ,coil
 C produces a south-pole magnetic field, and coil C produces a north-pole magnetic field. The magnetic fields produced by the coils pass through the air gap and through the metallic rotor. Because the magnetic fields attract each other, the metallic rotor spins in a direction that brings the nearest edges (2 and 4) of  the rotor as close as possible to the pair of energized coils (C and C). Like the PM stepper rotor, the VR   stepper rotor will remain aligned to the coils as long as coils C and C are energized and the magnetic fields are not changed. To move to the next state and continue this rotation, coils C and C must be deenergized, while coils A and A must be oppositely energized to attract rotor edges 1 and 3 respectively. The same process occurs with coils B and B to attract rotor edges 2 and 4 respectively, and so on.This is an example of a 3-phase VR motor.
 
-![image](Lab/Stepper Motor/vr motor.png)
 
 # Getting Familiar with Arduino
 
@@ -242,4 +241,3 @@ Arduino has many many applications in real world. Many things could be automated
 
 Arduino can be used to automated observation taking in the labs. For example, in the Debye temperature experiment. We have to take video because there are so many observation that we can't just write with hand. So in these condition, the knowlege of ardino comes very handy.
 
-![](image.jpg)

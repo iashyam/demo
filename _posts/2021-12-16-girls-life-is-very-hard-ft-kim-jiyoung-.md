@@ -1,7 +1,6 @@
 ---
 date: '2021-12-16'
 draft: false
-image: featured.html; charset=utf-8
 tags:
 - Article
 title: Girls' Life is Very Hard (Ft. Kim Jiyoung)

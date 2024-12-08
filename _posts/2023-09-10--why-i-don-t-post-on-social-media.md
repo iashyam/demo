@@ -1,7 +1,6 @@
 ---
 date: '2023-09-10'
 draft: false
-image: featured.octet-stream
 tags:
 - Article
 title: " Why I Don\u2019t Post On Social Media"
@@ -10,7 +9,6 @@ Lucky are those who can call themselves introverts or extroverts. For those in t
 
 ![](https://cdn-images-1.medium.com/max/800/0*XhkeunPPE3XqaDLN)
 
-Photo by [Gabrielle Henderson](https://unsplash.com/@gabriellefaithhenderson?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### What’s the point?
 
