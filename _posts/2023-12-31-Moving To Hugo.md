@@ -131,7 +131,7 @@ def process_folder(folder_path):
 
                 download_image(image_link, image_destination)
 
-                # Add "featured_image: 'featured.ext'" to the third line of the .md file
+                # Add "featured.ext" to the third line of the .md file
                 content_lines = content.split('\n')
                 content_lines.insert(2, f'featured_image: \'featured.{image_extension}\'')
                 content = '\n'.join(content_lines)
